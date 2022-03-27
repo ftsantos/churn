@@ -1,4 +1,5 @@
 # churn
 
-Esta análise foi feita durante a Semana do Iniciante em DS da FLAI, portanto, é apenas de aprendizado e não é de minha autoria.
+modelo_churn.ipynb - feito durante a Semana do Iniciante em DS da FLAI
+modelo_churn_telecom.ipynb - feito durante a Semana do Python Impressionador da Hashtag
 Em breve colocarei exemplos de problemas que encontrarei na empresa que trabalho.
